@@ -1,11 +1,11 @@
-# ticketing
+# TICKEING
 
 
-Microservices app:
+## Microservices app:
 
 Stubhub clone using microservices and Server Side Rendering frontend
 
-Backend:
+### Backend:
 
 Node.js - Core
 
@@ -21,17 +21,17 @@ Redis - caching tool for expiration service
 
 Nats Streaming server - Event-bus tool to communicate microservices.
 
-Frontend:
+### Frontend:
 
 Next.js - react framework
 
-Testing:
+### Testing:
 
 Jest - test runtime and assertion library
 
 Mongodb Memory server - store test data in memory
 
-Infra:
+### Infra:
 
 Docker/ Kubernetes - containers management
 
